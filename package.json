@@ -39,5 +39,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://weggdul.github.io/clone_code_react"
+  "homepage": "https://wedul.github.io/clone_code_react",
+  "devDependencies": {
+    "mini-css-extract-plugin": "2.4.5"
+  }
 }
