@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clone_code_react/static/css/main.79d21158.css",
+    "main.js": "/clone_code_react/static/js/main.3afe4328.js",
+    "index.html": "/clone_code_react/index.html",
+    "main.79d21158.css.map": "/clone_code_react/static/css/main.79d21158.css.map",
+    "main.3afe4328.js.map": "/clone_code_react/static/js/main.3afe4328.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d21158.css",
+    "static/js/main.3afe4328.js"
+  ]
+}
