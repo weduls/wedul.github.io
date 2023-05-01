@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.main {
+  max-width: 480px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: -apple-system, HelveticaNeue, Roboto, "Noto Sans KR", helvetica, Gulim, sans-serif;
+  font-size: 14px;
+  color: black;
+  line-height: 1.5;
+}
+
+.header__common__layout {
+  margin: 0px;
+  padding: 0px;
+}
+
+.main__body {
+  padding-bottom: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+.space__between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.divider {
+  padding: 3px;
+  background-color: #fafafa;
+}

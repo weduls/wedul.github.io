@@ -1,0 +1,57 @@
+.react-tabs__tab--selected {
+    border-bottom: 1px solid #8B8C96 !important;
+}
+
+.react-tabs__tab--selected:after {
+    border-bottom: 1px solid #8B8C96 !important;
+}
+
+.react-tabs__tab {
+    width: 50%;
+    border: none;
+    bottom: unset;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.react-tabs__tab-list {
+    background-color: rgb(255, 255, 255);
+    justify-content: space-between;
+    display: flex;
+    height: 50px;
+    border-bottom: none;
+}
+
+.block__box {
+    border-bottom: 1px solid #e9ecef;
+    margin: 0px 0.6rem;
+    padding: 1.4rem 0;
+}
+
+.block__header {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.block__body {
+    margin-top: 10px;
+}
+
+.week__body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.week__name {
+    color: #999999;
+}
+
+.sales__body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sales__name {
+    color: #999999;
+}

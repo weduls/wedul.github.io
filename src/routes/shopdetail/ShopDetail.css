@@ -1,0 +1,65 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.shop__detail__main {
+    height: 100%;
+}
+
+.shop__detail__image__gallary {
+    height: 414px;
+}
+
+.image-gallery-bullet {
+    background-color: black !important;
+}
+
+.image-gallery-slide .image-gallery-image {
+    object-fit: fill !important;
+}
+
+.shop__detail__info {
+    margin: 0 1.6rem;
+    padding: 1.4rem 0;
+    position: relative;
+}
+
+.shop__detail__info__profile {
+    display: block;
+    text-decoration: none;
+    color: #212529;
+}
+
+.shop__detail__info__article__profile__image {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.shop__detail__info__profile .shop__detail__info__article__profile__image img {
+    width: 40px;
+    height: 40px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+.shop__detail__info__article__profile__left {
+    display: inline-block;
+    margin-left: 0.8rem;
+    vertical-align: middle;
+}
+
+.shop__name {
+    font-size: 1.2rem;
+    font-weight: 300;
+    line-height: 1.5;
+    letter-spacing: -0.6px;
+    color: #212529;
+}
+
+.shop__star {
+    font-size: 0.8rem;
+    line-height: 1.46;
+    letter-spacing: -0.6px;
+    color: #6a90b6
+}
+
