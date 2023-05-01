@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wedul.github.io/static/css/main.9aaf4c9c.css",
+    "main.js": "/wedul.github.io/static/js/main.4f807289.js",
+    "index.html": "/wedul.github.io/index.html",
+    "main.9aaf4c9c.css.map": "/wedul.github.io/static/css/main.9aaf4c9c.css.map",
+    "main.4f807289.js.map": "/wedul.github.io/static/js/main.4f807289.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aaf4c9c.css",
+    "static/js/main.4f807289.js"
+  ]
+}
